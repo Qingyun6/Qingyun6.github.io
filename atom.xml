@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://blog.qingyunmc.com</id>
+    <title>爱折腾的周君</title>
+    <updated>2021-08-15T09:47:11.963Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://blog.qingyunmc.com"/>
+    <link rel="self" href="http://blog.qingyunmc.com/atom.xml"/>
+    <subtitle>这里是青耘麦块的旗下附属博客文章发布站点，有关视频的资源或者介绍视频也会发布在此哦~收藏我们，一键三连！</subtitle>
+    <logo>http://blog.qingyunmc.com/images/avatar.png</logo>
+    <icon>http://blog.qingyunmc.com/favicon.ico</icon>
+    <rights>All rights reserved 2021, 爱折腾的周君</rights>
+    <entry>
+        <title type="html"><![CDATA[NamelessMC 服主建站的首选程序，超多功能，模块化]]></title>
+        <id>http://blog.qingyunmc.com/post/namelessmc/</id>
+        <link href="http://blog.qingyunmc.com/post/namelessmc/">
+        </link>
+        <updated>2021-08-15T08:27:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>NamlessMC经作者团队授权后转载，本人为经官方许可转载并汉化成员，对于其他剽窃行为，坚决抵制！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>NamlessMC经作者团队授权后转载，本人为经官方许可转载并汉化成员，对于其他剽窃行为，坚决抵制！</p>
+<!-- more -->
+<p>官方网站：https://namelessmc.com/<br>
+官方wiki(无中文汉化)：https://docs.namelessmc.com/en/home<br>
+翻译wiki(简体中文汉化)：http://wiki.qingyunmc.com/namelessmc<br>
+原帖地址：https://github.com/NamelessMC/Nameless<br>
+MCBBS转载帖(本人)：https://www.mcbbs.net/thread-1234648-1-1.html</p>
+<h2 id="授权截图">授权截图</h2>
+<figure data-type="image" tabindex="1"><img src="https://gitee.com/liuliuz_admin/images/raw/dfca7f50388de4b07418341867bd4f1c55e6807a/nameless%E8%BD%AC%E8%BD%BD%E5%B8%96%E5%AD%90%E8%AE%B8%E5%8F%AF.png" alt="nameless授权" loading="lazy"></figure>
+<h2 id="介绍">介绍</h2>
+<p>NamelessMC是一款基于PHP，以及强大的Bootstrap框架所编写的网站程序。<br>
+在这个程序中集合了官网的最基本的服务器展示功能，以及论坛的功能。<br>
+同时又兼有服务器状态页，实时查看服务器上在线人数与在线的论坛成员名单。<br>
+同时也有完善的开发文档，php程序员也可以通过开发文档指引开发多个模块以及小工具。<br>
+官方也有自己的社区以及发布的模块。这个体现了本程序的高度的扩展性。<br>
+国内外将近有一万多服务器共同选择！程序安全无任何后门！<br>
+NamelessMC 2.0.0 版仍是预览版，尚不推荐用于生产用途。</p>
+<h2 id="各版本特点">各版本特点</h2>
+<h3 id="v1021">v1.0.21</h3>
+<ul>
+<li>模块和主题和插件系统，更换语言语言</li>
+<li>论坛主题标签，分论坛</li>
+<li>警报系统，包括在用户标记或新员工应用程序时弹出通知</li>
+<li>电子邮件配置</li>
+<li>Nameless API可与Nameless Plugin对接</li>
+<li>能够禁用 UUID 链接，允许支持离线模式服务器</li>
+<li>自定义页面系统</li>
+<li>服务器统计集成，工作人员和成员名单，我的世界状态</li>
+<li>Google reCAPTCHA 选项，两因素身份验证，Minecraft 帐户验证</li>
+<li>语音服务器查看器（基于Discord）</li>
+</ul>
+<h3 id="v20pre预览版">v2.0pre（预览版）</h3>
+<ul>
+<li>API - 如果与Nameless Plugin for v2结合使用，可以提供与您的 Minecraft 服务器的集成。</li>
+<li>自定义页面系统 创建您自己的 HTML 页面，甚至根据排名限制对它们的访问。</li>
+<li>强大的论坛系统。新的模板和语言系统，允许完全自定义。</li>
+<li>Minecraft 集成 可以验证注册帐户，或完全禁用它们。</li>
+<li>新的强大模块系统允许进一步的 NamelessMC 集成。</li>
+<li>友好的 URL 选项（需要 mod_rewrite）。</li>
+<li>小部件系统 允许模块创建小部件，小部件可以显示在大多数面向用户的页面上并显示几乎所有内容。</li>
+<li>PlaceholderAPI Sync 将用户占位符从您的服务器同步到您的 NamelessMC 网站。</li>
+</ul>
+<h2 id="下载">下载</h2>
+<p>1.推荐原帖地址下载：https://github.com/NamelessMC/Nameless/releases<br>
+2.分流高速下载地址：（星号★代表在百兆带宽下的速度）</p>
+<ul>
+<li>★慢速百度云下载：https://pan.baidu.com/s/1Q67lr8w9Zb8c1dGTXAjMIg 提取码: xtc1</li>
+<li>★★OneDrive下载地址  <a href="https://etgli-my.sharepoint.com/personal/liuliuz_gou_to/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliuliuz_gou_to%2FDocuments%2FMinecraft%2F%E3%80%90%E6%9C%80%E6%96%B0%E7%89%88%E3%80%91Nameless-2.0.0-pr10.zip&amp;parent=%2Fpersonal%2Fliuliuz_gou_to%2FDocuments%2FMinecraft&amp;originalPath=aHR0cHM6Ly9ldGdsaS1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9saXVsaXV6X2dvdV90by9FYm5XT1Z3WTZTWktsMXhqZHdDQlRjb0JnQmVWLVRLZVE1QW5uSlhyRDJqVUFBP3J0aW1lPWQ2aUJFOHBmMlVn">v2pre10最新版</a> | <a href="https://etgli-my.sharepoint.com/personal/liuliuz_gou_to/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliuliuz%5Fgou%5Fto%2FDocuments%2FMinecraft%2FNamelessv2%2E0pre7%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E5%AE%8C%E5%85%A8%E6%B1%89%E5%8C%96%2Ezip&amp;parent=%2Fpersonal%2Fliuliuz%5Fgou%5Fto%2FDocuments%2FMinecraft&amp;originalPath=aHR0cHM6Ly9ldGdsaS1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9saXVsaXV6X2dvdV90by9FWW1uQ2ZyVzZXQkRvYjJRcXFfOXMxMEJEb3dtb1Vzb2wtcXJuRXlTQnk3QlFRP3J0aW1lPVc1Y2NBOHBmMlVn">v2pre7汉化版</a> | <a href="https://etgli-my.sharepoint.com/personal/liuliuz_gou_to/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliuliuz%5Fgou%5Fto%2FDocuments%2FMinecraft%2FNamelessv1%2E0%2E21%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E5%AE%8C%E5%85%A8%E6%B1%89%E5%8C%96%20%2Ezip&amp;parent=%2Fpersonal%2Fliuliuz%5Fgou%5Fto%2FDocuments%2FMinecraft&amp;originalPath=aHR0cHM6Ly9ldGdsaS1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9saXVsaXV6X2dvdV90by9FVHJUUFY2dHZudEJpNV92cExrZ1B6NEJ0R0d5NmtreFY3SFBNTTBNaVNOZi13P3J0aW1lPUxSNzNBOHBmMlVn">v1汉化稳定版</a></li>
+<li>★GoFile国外分流：https://gofile.io/d/ixWwau</li>
+<li>★★★TMPLINK国内分流：http://tmp.link/room/610511fdcfee6</li>
+<li>★Rainyun分流：https://pan.liuliuz.com.cn/s/BqU2</li>
+<li>★115国内下载：https://115.com/s/swnynuo3njc?password=0000&amp;#</li>
+<li>★★蓝奏云：https://teawine.lanzoui.com/b016meq4j 密码：gux6</li>
+</ul>
+<h2 id="最后">最后</h2>
+<p>感谢大家看到这里。也请多多包涵，可以在评论区提供关于程序建议或安装中的一些问题。<br>
+看完演示站作为服主的你是不是也想要有这么一个网站程序帮助自己吸引玩家？<br>
+当然，正急用的服主可以联系我，我将会为你提供5元的一对一搭建指导服务(仅v1和v2pre7)<br>
+不过需要服务器ip或root密码，可以在安装完后更改root密码，于yocloud.icu开的主机则免费安装！<br>
+希望大家可以稍微赞助一下我：http://afdian.net/@liuliuz_mc 【有动力写中文版wiki】<br>
+作者：https://namelessmc.com/donate/  【需要有paypal账号】</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本站or报道]]></title>
+        <id>http://blog.qingyunmc.com/post/about/</id>
+        <link href="http://blog.qingyunmc.com/post/about/">
+        </link>
+        <updated>2021-08-15T03:54:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>本站已经搬了三次了つ﹏⊂<br>
+这是新站！认准了哦，http://blog.qingyunmc.com/</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>本站已经搬了三次了つ﹏⊂<br>
+这是新站！认准了哦，http://blog.qingyunmc.com/</p>
+<!-- more -->
+<p>在这个青耘麦块旗下的博客站点，是发布有关于MC相关教程，以前写过的教程也将重新编写到此处！<br>
+我也将一改以前的风格，也使用更通俗的语言帮助各位史蒂夫们~<br>
+可以在网站的首页看到联系我的方式，任意选择一个即可，不过国外的社交媒体我不是很经常上。</p>
+<p>请各位黑客们也手下留情！本站搭建真的也不容易！<br>
+青耘麦块的官方服务器目前也遇到黑客攻击，在速速抢修，请稍作等待。。。</p>
+<p>评论的话也请自觉遵守评论礼仪！提问时也请先看看=&gt;提问的智慧(baidu)</p>
+<p>初入本站的新人可以在下方报道哦:</p>
+]]></content>
+    </entry>
+</feed>
